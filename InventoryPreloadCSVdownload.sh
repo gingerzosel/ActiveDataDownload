@@ -18,7 +18,8 @@
 # READ IN PARAMETERS (NO NEED TO CHANGE ANYTHING HERE)
 #
 ####################################################################################################
-#2021 Ginger Zosel
+# 2021 Ginger Zosel
+
 
 date=$(date +"%m-%d-%T")
 outputfile="/tmp/ActiveData-$date.csv"
